@@ -1,6 +1,6 @@
 # Laptop Price Predictor
 
-A machine learning project that predicts laptop prices based on specifications using Linear Regression.
+A machine learning project that predicts laptop prices based on specifications using various ML algorithms.
 
 ## Features
 - Data preprocessing
@@ -16,7 +16,7 @@ A machine learning project that predicts laptop prices based on specifications u
 - Streamlit
 
 ## Project Structure
-
+'''
 laptop-price-predictor
 │
 ├── app.py
@@ -25,6 +25,7 @@ laptop-price-predictor
 ├── dataset.csv
 ├── requirements.txt
 └── README.md
+'''
 
 ## How to Run
 
@@ -35,6 +36,16 @@ pip install -r requirements.txt
 Run the Streamlit app:
 
 streamlit run app.py
+
+## Application Demo
+
+![Laptop Price Predictor](Image/Screenshot%20(18).png)
+![Prediction](Image/Screenshot%20(19).png)
+
+## Project Overview
+
+This project predicts laptop prices based on specifications such as RAM, processor, GPU, storage, and brand using a various ML algorithms.
+
 
 ## Future Improvements
 
