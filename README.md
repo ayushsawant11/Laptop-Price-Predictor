@@ -16,16 +16,29 @@ A machine learning project that predicts laptop prices based on specifications u
 - Streamlit
 
 ## Project Structure
-'''
-laptop-price-predictor
+
+```
+Laptop-Price-Prediction
 │
 ├── app.py
-├── train_model.py
-├── model.pkl
-├── dataset.csv
 ├── requirements.txt
-└── README.md
-'''
+├── setup.sh
+├── README.md
+│
+├── data
+│   └── laptop_data.csv
+│
+├── models
+│   ├── pipe.pkl
+│   └── df.pkl
+│
+├── notebooks
+│   └── Laptop_prediction.ipynb
+│
+└── images
+    ├── home_page.png
+    └── prediction_result.png
+```
 
 ## How to Run
 
