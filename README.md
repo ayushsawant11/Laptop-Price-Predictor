@@ -52,8 +52,8 @@ streamlit run app.py
 
 ## Application Demo
 
-![Laptop Price Predictor](Image/Screenshot%20(18).png)
-![Prediction](Image/Screenshot%20(19).png)
+![Laptop Price Predictor](image/home_page.png)
+![Prediction](image/prediction_result.png)
 
 ## Project Overview
 
